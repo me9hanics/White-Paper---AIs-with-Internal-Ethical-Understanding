@@ -1,0 +1,2 @@
+# White-Paper---AIs-with-Internal-Ethical-Understanding
+A white paper writing for my "Debates in Social Data Science" course at the Central European University. The paper argues that the current alignment approach, not restricting models during training, then externally aligned post-training to prevent unethical action, is not an adequate approach - instead, we need to build models understanding ethics.
